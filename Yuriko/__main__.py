@@ -95,7 +95,7 @@ PM_START_TEXT = """
 × *Uᴘᴛɪᴍᴇ:* `{}`
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ────────────────────────
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ:"https://t.me/iMi_SuMiT_Op"*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ:"BᴏᴛDᴜɴɪʏᴀ!"*
 """
 
 buttons = [
@@ -131,7 +131,7 @@ HELP_STRINGS = """
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- "https://t.me/iMi_SuMiT_Op"💕"""
+ @iMi_SuMiT_Op 💕"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -487,7 +487,7 @@ def famezbot_about_callback(update, context):
             f"\n\n✗ `3.) add` @jblvc `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
             f"\n\n✗ *Lets Enjoy The jbl Music And Join Support Group @godzilla_chatting*"
-            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ:"https://t.me/iMi_SuMiT_Op*",
+            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ:"BᴏᴛDᴜɴɪʏᴀ!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
