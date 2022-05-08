@@ -487,7 +487,7 @@ def famezbot_about_callback(update, context):
             f"\n\n✗ `3.) add` @jblvc `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
             f"\n\n✗ *Lets Enjoy The jbl Music And Join Support Group @godzilla_chatting*"
-            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ:"BᴏᴛDᴜɴɪʏᴀ!*",
+            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: ғᴀᴍᴇᴢ ʙᴏᴛs!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
